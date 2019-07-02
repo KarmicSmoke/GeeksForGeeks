@@ -1,4 +1,4 @@
-package src.dp.CountingDistinctOccurenceOfSubsequence;
+package dp.CountingDistinctOccurenceOfSubsequence;
 
 public class CountDistinctOccurrencesAsASubsequence {
 

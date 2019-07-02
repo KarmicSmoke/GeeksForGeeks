@@ -1,4 +1,4 @@
-package src.dp.AllWaysToAddParenthesisForEvaluation;
+package dp.AllWaysToAddParenthesisForEvaluation;
 
 import java.util.HashMap;
 import java.util.HashSet;

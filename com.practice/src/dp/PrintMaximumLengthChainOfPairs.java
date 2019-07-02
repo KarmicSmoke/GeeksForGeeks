@@ -1,4 +1,4 @@
-package src.dp;
+package dp;
 
 class Pair implements Comparable<Pair> {
 	int x;

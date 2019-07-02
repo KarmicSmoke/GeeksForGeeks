@@ -1,4 +1,4 @@
-package src.dp.ChoiceOfArea;
+package dp.ChoiceOfArea;
 
 public class ChoiceOfArea {
 

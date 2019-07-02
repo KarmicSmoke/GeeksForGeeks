@@ -1,4 +1,4 @@
-package src.dp;
+package dp;
 
 public class CatalanNumber {
 

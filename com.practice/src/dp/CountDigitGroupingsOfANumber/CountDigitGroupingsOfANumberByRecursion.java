@@ -1,4 +1,4 @@
-package src.dp.CountDigitGroupingsOfANumber;
+package dp.CountDigitGroupingsOfANumber;
 
 public class CountDigitGroupingsOfANumberByRecursion {
 

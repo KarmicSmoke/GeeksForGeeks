@@ -1,4 +1,4 @@
-package src.dp.MaximumDecimalValuePathInABinaryMatrix;
+package dp.MaximumDecimalValuePathInABinaryMatrix;
 
 public class MaximumDecimalValuePathInABinaryMatrixV2 {
 

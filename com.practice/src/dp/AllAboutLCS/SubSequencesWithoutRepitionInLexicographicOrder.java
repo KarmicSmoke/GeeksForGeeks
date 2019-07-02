@@ -1,4 +1,4 @@
-package src.dp.AllAboutLCS;
+package dp.AllAboutLCS;
 
 public class SubSequencesWithoutRepitionInLexicographicOrder {
 

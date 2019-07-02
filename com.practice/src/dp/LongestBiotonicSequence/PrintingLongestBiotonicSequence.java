@@ -1,4 +1,4 @@
-package src.dp.LongestBiotonicSequence;
+package dp.LongestBiotonicSequence;
 
 public class PrintingLongestBiotonicSequence {
 

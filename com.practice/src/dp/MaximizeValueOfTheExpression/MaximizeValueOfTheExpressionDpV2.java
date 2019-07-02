@@ -1,4 +1,4 @@
-package src.dp.MaximizeValueOfTheExpression;
+package dp.MaximizeValueOfTheExpression;
 
 //Maximize arr[i] – arr[j] + arr[k] – arr[l], such that i < j < k < l
 

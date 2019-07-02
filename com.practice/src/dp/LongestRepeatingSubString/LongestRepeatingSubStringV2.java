@@ -1,4 +1,4 @@
-package src.dp.LongestRepeatingSubString;
+package dp.LongestRepeatingSubString;
 
 public class LongestRepeatingSubStringV2 {
 
